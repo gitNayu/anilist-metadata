@@ -9,12 +9,12 @@ A small Python tool that makes metadata files for your comics and light novels, 
 
 ## Requirements
 
-- Python 3.8 or newer
+- Python 3.9 or newer
 - [python-anilist](https://pypi.org/project/python-anilist/)
 - Calibre (optional, only to write metadata into an EPUB file)
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 sudo apt install calibre
 ```
 

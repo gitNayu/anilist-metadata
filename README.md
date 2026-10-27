@@ -56,5 +56,5 @@ Number (Enter = 1) > 1
 Format: MANGA
 Save folder (Enter = here) > example
 Saved example/cover.jpg
-Saved <a href="ComicInfo.xml">example/ComicInfo.xml</a>
+Saved <a href="example/ComicInfo.xml">example/ComicInfo.xml</a>
 </pre>

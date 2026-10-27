@@ -28,7 +28,7 @@ sudo apt install calibre
 ## Usage
 
 ```
-python3 src.py
+python3 anilist-metadata.py
 ```
 
 1. Type the name of the manga or novel.
